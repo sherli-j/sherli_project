@@ -5,7 +5,7 @@ class BankAccount:
 
     def check_balance(self):
         print("\n===== ACCOUNT DETAILS =====")
-        print("Account Holder:", self.account_holder)
+        print("Account ulla aal:", self.account_holder)
         print("Available Balance: ₹", self.balance)
 
 
