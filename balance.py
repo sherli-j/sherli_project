@@ -10,7 +10,7 @@ class BankAccount:
 
 
 # Create a sample bank account
-account = BankAccount("Anu", 505000)
+account = BankAccount("Ansi", 505000)
 
 # Check bank balance
 account.check_balance()
